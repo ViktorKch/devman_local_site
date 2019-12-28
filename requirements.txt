@@ -1,0 +1,4 @@
+Django==1.11.21
+environs==7.1.0
+psycopg2==2.7.3.1
+pytz==2017.2
